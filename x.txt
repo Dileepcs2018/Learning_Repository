@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5464-092E
+
+ Directory of C:\Users\dell\OneDrive\Desktop\Github\My_Projects
+
+06/09/2021  06:27 AM    <DIR>          .
+06/09/2021  06:27 AM    <DIR>          ..
+06/09/2021  06:27 AM                 0 x.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  108,670,017,536 bytes free
